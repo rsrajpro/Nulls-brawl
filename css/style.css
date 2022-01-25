@@ -36,3 +36,25 @@
 .card:hover h5, .card:hover p{
     color: rgb(216, 118, 27);
 }
+.c-5 h2{
+    margin-left:20px ;
+    color: rgb(0, 140, 255);
+}
+.c-5 ul li{
+    margin-left:20px ;
+    font-size: 18px;
+    
+}
+.c-5 ul li a{
+    text-decoration: none;
+    color: rgb(163, 162, 177);
+}
+.c-5 ul li a:hover{
+    color: rgb(255, 255, 255);
+}
+.c-c{
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    text-align: center;;
+}
